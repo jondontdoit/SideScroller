@@ -1,5 +1,6 @@
 # Side-Scroller
 An animation for an 8x16 LED matrix controlled with MAX7219 drivers
+
 https://jhwarren.com/projects/SideScroller
 
 ## Notes
